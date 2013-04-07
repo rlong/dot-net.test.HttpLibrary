@@ -1,4 +1,4 @@
-jsonbroker.c_sharp.unit_test
+jsonbroker.c_sharp.test
 ============================
 
-An application to drive the unit tests in jsonbroker.c_sharp
+An application to drive the tests in jsonbroker.c_sharp
