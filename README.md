@@ -1,4 +1,4 @@
-jsonbroker.c_sharp.test
+dot-net.test.HttpLibrary
 ============================
 
-An application to drive the tests in jsonbroker.c_sharp
+An application to drive the tests in dot-net.lib.HttpLibrary
